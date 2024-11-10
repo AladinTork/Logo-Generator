@@ -19,7 +19,7 @@
   
   ## Usage
   
-  By running "node index.js" you can access the CLI prompts to specify the logo you want to create. A step-by-step video guide can be found at:
+  By running "node index.js" you can access the CLI prompts to specify the logo you want to create. A step-by-step video guide can be found at: https://drive.google.com/file/d/1LroP3xU9XMi_C8j_5hkDmAQZhJSV0jYv/view
   
   
   
