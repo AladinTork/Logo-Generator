@@ -29,7 +29,7 @@
   
   ## Tests
   
-  to be determined
+  To run the unit tests, you can type "npm run test" in the CLI. The test checks for the right SVG tag rendered by the prototypes "render()" of Circle, Triangle and Rectangle classes.
   
   ## Questions
   
